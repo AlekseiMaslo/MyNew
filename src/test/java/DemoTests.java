@@ -9,7 +9,7 @@ import org.testng.annotations.Test;
 import java.util.concurrent.TimeUnit;
 
 public class DemoTests {
-
+    //WebDriver
     WebDriver driver;
 
     //TC1 valid log and pass
